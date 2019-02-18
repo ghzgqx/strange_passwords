@@ -1218,3 +1218,4 @@
 [webuser/123]
 [ts3user/123]
 [webmo/webmo]
+[fedora/fedora]
